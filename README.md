@@ -17,7 +17,7 @@
 
 ### `// SYSTEM_OVERVIEW`
 
-CS Student, from Chile, 4th year from 5th of the career at University of Santiago de Chile formerly known as USACH;
+CS Student, 4th year from 5th of the career;
 Cybersec, Coding, Emulation and Math enthusiast
 
 ---
