@@ -1,16 +1,52 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mt-strx/mt-strx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre>
+ .--.             .
+ |   )            |
+ |--:  .-.  .--.  |.-.
+ |   )(   ) |   ) |- <
+ '--'  `-'  '--'  '  `
+</pre>
 
-Here are some ideas to get you started:
+<code>[ 24 ]</code> <code>[ CS STUDENT ]</code> <code>[ EMULATION ]</code> <code>[ FOSS ]</code> <code>[ CYBERSEC ]</code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</div>
+
+---
+
+### `// SYSTEM_OVERVIEW`
+
+CS Student, from Chile, 4th year from 5th of the career at University of Santiago de Chile formerly known as USACH;
+Cybersec, Coding, Emulation and Math enthusiast
+
+---
+
+### `// TECH_STACK`
+
+```c
+char tools[] = { "C", "SQL", "Batch", "Basic Linux", "Git" };
+
+```
+
+---
+
+### `// DATA_LOG`
+
+* **Interests:** Purple Team 👾
+* **Privacy above all** 👁️‍🗨️
+* **Hobbies:** Videogames `&` Figure Collector
+
+---
+
+### `// COMMS_UPLINK`
+
+<a href="https://www.google.com/search?q=https://discord.com/users/_mstrax" target="_blank">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="30"/>
+</a>
+<a href="https://instagram.com/mt.strx" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
+</a>
+<a href="mailto:moramatias11@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+</a>
