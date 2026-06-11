@@ -33,7 +33,6 @@ char tools[] = { "C", "SQL", "Batch", "Basic Linux", "Git" };
 
 ### `// DATA_LOG`
 
-* **Interests:** Purple Team 👾
 * **Privacy above all** 👁️‍🗨️
 * **Hobbies:** Videogames `&` Figure Collector
 
